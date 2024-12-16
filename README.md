@@ -28,3 +28,7 @@ Amazon
 
 Google
 - https://cloud.google.com/healthcare-api
+
+GitHub
+- https://github.com/apeterswu/Awesome-Bio-Foundation-Models
+- https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
