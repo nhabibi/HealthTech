@@ -4,6 +4,7 @@ This repository serves as a collection of valuable resources, links, and referen
 ### Foundation Models
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models
 - https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
+- https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models
 
 ### Protein Design
 - https://github.com/evolutionaryscale
