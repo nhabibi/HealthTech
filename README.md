@@ -1,34 +1,28 @@
 # Text2Molecule Resources
 
-This repository serves as a collection of valuable resources, links, and references related to the topic of **Text-to-Molecule** generation and analysis.
+This repository serves as a collection of valuable resources, links, and references related to the topic of **HealthTech**.
 
 ---
 
-## 📘 **About Text2Molecule**
-Text2Molecule refers to the process of generating molecular structures from natural language descriptions, often using AI models or NLP-based approaches.
-
----
-
-## 🔗 **Resource Links**
-Here are some useful links on Text2Molecule research, projects, and tools.
-
-Iran:
-- https://irancohorts.ir/cohort-studies/
-
-DeepMind
+### DeepMind
 - https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/
 - https://github.com/google-deepmind/alphafold3
 
-NVIDIA
+## Iran
+- https://irancohorts.ir/cohort-studies/
+
+## Foundation Models
+https://github.com/apeterswu/Awesome-Bio-Foundation-Models
+- https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
+
+## NVIDIA
 - https://www.nvidia.com/en-us/clara/biopharma/
 - https://nvidia.github.io/bionemo-framework/
 
-Amazon
+## Amazon
 - https://aws.amazon.com/healthomics/
 
-Google
+## Google
 - https://cloud.google.com/healthcare-api
 
-GitHub
-- https://github.com/apeterswu/Awesome-Bio-Foundation-Models
-- https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
+ 
