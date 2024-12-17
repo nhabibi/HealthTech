@@ -1,4 +1,3 @@
-# Text2Molecule Resources
 
 This repository serves as a collection of valuable resources, links, and references related to the topic of **HealthTech**.
 
