@@ -5,7 +5,7 @@ This repository serves as a collection of valuable resources, links, and referen
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models
 - https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
 
-### Protein Deign
+### Protein Design
 - https://github.com/evolutionaryscale
 
 ### DeepMind
