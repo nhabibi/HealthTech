@@ -24,6 +24,7 @@ This repository serves as a collection of valuable resources, links, and referen
 - https://cloud.google.com/healthcare-api
 
 ### Iran
+- https://ai.iums.ac.ir/
 - https://irancohorts.ir/cohort-studies/
-- https://pardisgene.com
-- https://github.com/MedX-Media
+- https://pardisgene.com/
+- https://github.com/MedX-Media/
