@@ -6,6 +6,9 @@ This repository serves as a collection of valuable resources, links, and referen
 - https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
 - https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models
 
+### Evaluation
+- Hullicination: https://medhallu.github.io
+
 ### Protein Design
 - https://github.com/evolutionaryscale
 
