@@ -1,4 +1,3 @@
-This repository serves as a collection of valuable resources, links, and references related to the topic of **HealthTech**.
 
 ---
 ### Foundation Models
