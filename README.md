@@ -9,6 +9,7 @@
 - Hallucination: https://medhallu.github.io
 
 ### Protein Design
+- https://github.com/Yijia-Xiao/Protein-LLM-Survey
 - https://github.com/evolutionaryscale
 
 ### DeepMind
