@@ -1,8 +1,8 @@
 
-### Copilots
+### Copilot
 - https://biologpt.com
 
-### Foundation Models
+### Foundation Model
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models
 - https://github.com/OmicsML/awesome-foundation-model-single-cell-papers
 - https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models
