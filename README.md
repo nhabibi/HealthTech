@@ -1,3 +1,5 @@
+### Misc.
+- https://clinicaltrials.gov
 
 ### Copilot
 - https://biologpt.com
