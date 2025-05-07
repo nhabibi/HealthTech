@@ -6,6 +6,7 @@
 
 ### Copilot
 - https://biologpt.com
+- https://github.com/sumankalia/smart-doctor
 
 ### Foundation Model
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models
