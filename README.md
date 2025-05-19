@@ -1,6 +1,10 @@
 ### Misc.
 - .
 
+### Evaluation
+- https://openai.com/index/healthbench/
+- Hallucination: https://medhallu.github.io/
+
 ### Data
 - https://clinicaltrials.gov/
 
@@ -12,10 +16,6 @@
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models/
 - https://github.com/OmicsML/awesome-foundation-model-single-cell-papers/
 - https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models/
-
-### Evaluation
-- https://openai.com/index/healthbench/
-- Hallucination: https://medhallu.github.io/
 
 ### Protein Design
 - https://github.com/Yijia-Xiao/Protein-LLM-Survey/
