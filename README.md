@@ -1,5 +1,8 @@
-### Misc.
-- https://bio.labmap.org/
+
+### Copilot
+- https://biologpt.com/
+- https://github.com/sumankalia/smart-doctor/
+- https://biomni.stanford.edu
 
 ### Evaluation
 - https://openai.com/index/healthbench/
@@ -9,9 +12,8 @@
 ### Data
 - https://clinicaltrials.gov/
 
-### Copilot
-- https://biologpt.com/
-- https://github.com/sumankalia/smart-doctor/
+### Misc.
+- https://bio.labmap.org/
 
 ### Foundation Model
 - https://github.com/apeterswu/Awesome-Bio-Foundation-Models/
